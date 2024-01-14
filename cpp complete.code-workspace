@@ -1,0 +1,35 @@
+{
+	"folders": [
+		{
+			"path": "../../cpp complete"
+		},
+		{
+			"path": "../../competetion programming"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../extra python"
+		},
+		{
+			"path": "../../python"
+		},
+		{
+			"path": "../../machine learning"
+		},
+		{
+			"path": "../../dubey"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp",
+			"string": "cpp",
+			"cmath": "cpp",
+			"cstdlib": "cpp",
+			"ostream": "cpp"
+		},
+		"liveServer.settings.multiRootWorkspaceName": "complete web devlopment course"
+	}
+}
